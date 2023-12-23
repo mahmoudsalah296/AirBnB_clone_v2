@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """This module instantiates storage object
-@TODOS:
     checks HBNB_TYPE_STORAGE environmental variable to determine storage type
 """
 from os import getenv
